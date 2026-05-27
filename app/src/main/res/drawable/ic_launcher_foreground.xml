@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="36"
+    android:viewportHeight="36">
+    <group
+        android:translateX="6"
+        android:translateY="6">
+        <!-- Centered directions walk silhouette (scaled 24x24 inside 36x36 canvas) -->
+        <path
+            android:fillColor="#00E676"
+            android:pathData="M13.5 5.5c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zM9.8 8.9L7 21.5h2.1l2.4-10.4 2.8 2.7V21.5h2V14.1l-2.8-2.8 1-4.8c1.6 1.9 4 3.1 6.8 3.1V9.7c-2.5 0-4.7-1.4-5.8-3.5L12 4.4c-.4-1.1-1.5-1.8-2.7-1.8-.5 0-1 .1-1.4.4L3 6v5.5h2V8.1l2.8-1.5-.7 3.5" />
+    </group>
+</vector>
