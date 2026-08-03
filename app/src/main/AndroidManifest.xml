@@ -31,7 +31,7 @@
 
         <!-- Background Step Sensor Service -->
         <service
-            android:name="com.example.sensor.StepTrackerService"
+            android:name="com.mamer.steptrack.sensor.StepTrackerService"
             android:enabled="true"
             android:exported="false"
             android:foregroundServiceType="health" />

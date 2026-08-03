@@ -1,6 +1,6 @@
 {
-  "name": "Step Counter",
-  "description": "An offline-first step counter application using the physical step counter sensor with an accelerometer-based backup, daily progress charts, and goals.",
+  "name": "Step Track",
+  "description": "An offline-first step track application using the physical step counter sensor with an accelerometer-based backup, daily progress charts, and goals.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
